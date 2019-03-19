@@ -1,0 +1,11 @@
+pics/
+run_gpt2.py
+Flicker8k_Dataset/
+Flickr8k_text/
+model.png
+.ipynb_checkpoints
+gpt2-pytorch_model.bin
+run*/
+features.pkl
+.vscode/
+example*.jpg
