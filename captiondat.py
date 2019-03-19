@@ -92,8 +92,3 @@ with redirect_stdout(f):
     gpt2(description,quiet=True)
 out = f.getvalue()
 print(out)
-
-
-#%%
-description = 'playing basketball these two little boys pulled the ball and scored a three pointer fo'
-gpt2(description,quiet=True)
